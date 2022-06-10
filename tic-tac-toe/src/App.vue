@@ -22,5 +22,10 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/256/896/original/abstract-marble-texture-vector-design.jpg) ;
+    background-repeat: repeat-x;
+    background-size: 627px;
+      font-family: 'Shizuru';
+    font-size: 50px;
 }
 </style>
