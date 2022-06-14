@@ -1,0 +1,20 @@
+{
+  "name": "vue_tic_tac-toe",
+  "version": "1.0.0",
+  "description": "tic-tac-toe with vue",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d VUE_TIC_TAC-TOE "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyyecraig/Vue_tic_tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayyyecraig/Vue_tic_tac-toe/issues"
+  },
+  "homepage": "https://github.com/ayyyecraig/Vue_tic_tac-toe"
+}
