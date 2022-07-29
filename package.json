@@ -4,7 +4,7 @@
   "description": "tic-tac-toe with vue",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d VUE_TIC_TAC-TOE "
+    "deploy": "gh-pages -d tic-tac-toe "
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/ayyyecraig/Vue_tic_tac-toe/issues"
   },
-  "homepage": "https://github.com/ayyyecraig/Vue_tic_tac-toe"
+  "homepage": "https://ayyyecraig.github.io/Vue_tic_tac-toe/"
 }
